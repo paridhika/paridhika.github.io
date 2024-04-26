@@ -1,16 +1,17 @@
 <table>
 <tr>
+
+<td>
+
+<img src="https://drive.google.com/uc?id=1aTUWTOBCEnzsQ9ApsxALs2rzhTuyAzez" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
+
+</td>
 <td>
 ### Paridhika Kayal, Ph.D.
 
 **Email:** [paridhika.kayal@mail.utoronto.ca](mailto:paridhika.kayal@mail.utoronto.ca)  
 **Google Scholar:** [View Publications](https://scholar.google.ca/citations?user=rZwsV7AAAAAJ&hl=en)  
 **LinkedIn:** [Profile](https://www.linkedin.com/in/paridhikakayal/)
-
-</td>
-<td>
-
-<img src="https://drive.google.com/uc?id=1aTUWTOBCEnzsQ9ApsxALs2rzhTuyAzez" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
 
 </td>
 </tr>
