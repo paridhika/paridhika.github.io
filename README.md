@@ -3,11 +3,11 @@
 
 <td>
 
-<img src="https://github.com/paridhika/paridhika.github.io/blob/main/paridhika.jpg" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
+<img src="https://github.com/paridhika/paridhika.github.io/blob/main/paridhika.jpg?raw=true" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
 
 </td>
 <td>
-\**Paridhika Kayal, Ph.D. Candidate\**
+Paridhika Kayal, Ph.D. Candidate
 
 **Email:** [paridhika.kayal@mail.utoronto.ca](mailto:paridhika.kayal@mail.utoronto.ca)  
 **Google Scholar:** [View Publications](https://scholar.google.ca/citations?user=rZwsV7AAAAAJ&hl=en)  
