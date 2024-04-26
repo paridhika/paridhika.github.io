@@ -3,7 +3,7 @@
 
 <td>
 
-<img src="https://github.com/paridhika/paridhika.github.io/blob/main/paridhika.jpg?raw=true" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
+<img src="https://raw.githubusercontent.com/paridhika/paridhika.github.io/main/paridhika.jpg" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
 
 </td>
 <td>
