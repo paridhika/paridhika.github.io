@@ -1,8 +1,20 @@
+<table>
+<tr>
+<td>
 ### Paridhika Kayal, Ph.D.
 
 **Email:** [paridhika.kayal@mail.utoronto.ca](mailto:paridhika.kayal@mail.utoronto.ca)  
 **Google Scholar:** [View Publications](https://scholar.google.ca/citations?user=rZwsV7AAAAAJ&hl=en)  
 **LinkedIn:** [Profile](https://www.linkedin.com/in/paridhikakayal/)
+
+</td>
+<td>
+
+![Paridhika Kayal](https://drive.google.com/file/d/1aTUWTOBCEnzsQ9ApsxALs2rzhTuyAzez/view?usp=sharing "Paridhika Kayal")
+
+</td>
+</tr>
+</table>
 
 ### Education
 - **PhD in Electrical and Computer Engineering**
