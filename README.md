@@ -10,7 +10,7 @@
 </td>
 <td>
 
-![Paridhika Kayal](https://drive.google.com/uc?id=1aTUWTOBCEnzsQ9ApsxALs2rzhTuyAzez "Paridhika Kayal")
+<img src="https://drive.google.com/uc?id=1aTUWTOBCEnzsQ9ApsxALs2rzhTuyAzez" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
 
 </td>
 </tr>
