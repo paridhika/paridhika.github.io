@@ -10,7 +10,7 @@
 </td>
 <td>
 
-![Paridhika Kayal]([https://drive.google.com/file/d/1aTUWTOBCEnzsQ9ApsxALs2rzhTuyAzez/view?usp=sharing](https://drive.google.com/file/d/1aTUWTOBCEnzsQ9ApsxALs2rzhTuyAzez/view) "Paridhika Kayal")
+![Paridhika Kayal](https://drive.google.com/uc?id=1aTUWTOBCEnzsQ9ApsxALs2rzhTuyAzez "Paridhika Kayal")
 
 </td>
 </tr>
