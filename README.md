@@ -1,16 +1,13 @@
-<table>
-<tr>
-  <td>
-    <img src="https://raw.githubusercontent.com/paridhika/paridhika.github.io/main/paridhika.jpg" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
-  </td>
-  <td>
+<div>
+  <img src="https://raw.githubusercontent.com/paridhika/paridhika.github.io/main/paridhika.jpg" alt="Paridhika Kayal" width="250" title="Paridhika Kayal">
+  <p>
     <strong>Paridhika Kayal, Ph.D. Candidate</strong><br>
     <strong>Email:</strong> <a href="mailto:paridhika.kayal@mail.utoronto.ca">paridhika.kayal@mail.utoronto.ca</a><br>
     <strong>Google Scholar:</strong> <a href="https://scholar.google.ca/citations?user=rZwsV7AAAAAJ&hl=en">View Publications</a><br>
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/paridhikakayal/">Profile</a>
-  </td>
-</tr>
-</table>
+  </p>
+</div>
+
 
 
 ### Education
