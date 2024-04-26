@@ -7,7 +7,7 @@
 
 </td>
 <td>
-**Paridhika Kayal, Ph.D. Candidate **
+**Paridhika Kayal, Ph.D. Candidate**
 
 **Email:** [paridhika.kayal@mail.utoronto.ca](mailto:paridhika.kayal@mail.utoronto.ca)  
 **Google Scholar:** [View Publications](https://scholar.google.ca/citations?user=rZwsV7AAAAAJ&hl=en)  
