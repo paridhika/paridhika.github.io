@@ -8,6 +8,8 @@
     <strong>Email:</strong> <a href="mailto:paridhika.kayal@mail.utoronto.ca">paridhika.kayal@mail.utoronto.ca</a><br>
     <strong>Google Scholar:</strong> <a href="https://scholar.google.ca/citations?user=rZwsV7AAAAAJ&hl=en">View Publications</a><br>
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/paridhikakayal/">Profile</a>
+    <strong>CV:</strong> <a href="https://github.com/paridhika/paridhika.github.io/blob/main/CV_Paridhika.pdf">Download CV</a>
+  
   </td>
 </tr>
 </table>
