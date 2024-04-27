@@ -63,40 +63,31 @@
 
 ## Employment History
 
-**Jan 2024 - Apr 2024**  
-*Teaching Assistant, University of Toronto*  
+**Jan 2024 - Apr 2024**  Teaching Assistant, University of Toronto*  
 - Communication Networks I under Prof. S. Valaee
 
-**Jan 2023 - Apr 2023**  
-*Teaching Assistant, University of Toronto*  
+**Jan 2023 - Apr 2023**  Teaching Assistant, University of Toronto*  
 - Computer Fundamentals, Fundamentals of Computer Programming, Computer Networks I in the ECE department, and Introduction to Computer Programming in the CS department.
 
-**Sep 2022 - Dec 2022**  
-*Teaching Assistant, University of Toronto*  
+**Sep 2022 - Dec 2022**  Teaching Assistant, University of Toronto*  
 - Foundations of Computing and Computer Networks I.
 
-**Jan 2022 - Apr 2022**  
-*Teaching Assistant, University of Toronto*  
+**Jan 2022 - Apr 2022**  Teaching Assistant, University of Toronto*  
 - Computer Fundamentals and Programming on the Web.
 
-**Sep 2021 - Dec 2021**  
-*Teaching Assistant, University of Toronto*  
+**Sep 2021 - Dec 2021**  Teaching Assistant, University of Toronto*  
 - Computer Networks, Operating Systems, and Computer Networks I.
 
-**Jan 2021 - Apr 2021**  
-*Teaching Assistant, University of Toronto*  
-- Programming on the Web and Computer Fundamentals in CS department.
+**Jan 2021 - Apr 2021**  Teaching Assistant, University of Toronto*  
+- Programming on the Web and Computer Fundamentals in the CS department.
 
-**Jan 2020 - Apr 2020**  
-*Teaching Assistant, University of Toronto*  
+**Jan 2020 - Apr 2020**  Teaching Assistant, University of Toronto*  
 - Introduction to Databases with Prof. Danny Heap and Prof. Mark Kazakevich, Programming on the Web under Prof. Mark Kazakevich, and Introduction to Machine Learning under Prof. Ashish Khisti and Prof. Ben Liang.
 
-**Jan 2019 - Apr 2019**  
-*Teaching Assistant, University of Toronto*  
+**Jan 2019 - Apr 2019**  Teaching Assistant, University of Toronto*  
 - Computer Networks II under Prof. Jorg Liebeherr.
 
-**Sep 2017 - Dec 2019**  
-*Teaching Assistant, University of Toronto*  
+**Sep 2017 - Dec 2019**  Teaching Assistant, University of Toronto*  
 - Internetworking course under Prof. Jorg Liebeherr, Communication Networks I.
 
 **Apr 2017 - Aug 2017**  
@@ -111,7 +102,6 @@
 **Jun 2012 – Apr 2014**  
 *Software Development Engineer at IVY Comptech Pvt. Ltd.*
 
-**Aug 2011 – Apr 2012**  
-*Teaching Assistant at IIIT-Hyderabad*  
+**Aug 2011 – Apr 2012**  Teaching Assistant at IIIT-Hyderabad*  
 - Computer Networks and General and Structural Chemistry.
 
