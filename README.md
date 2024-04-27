@@ -61,14 +61,57 @@
 - **2012:** Dean’s List Award for Academic Excellence, IIIT HYDERABAD
 - **2008:** All India Rank of 1013 in AIEEE (total 860,000 students); 5050 in IITJEE
 
-### Employment History
-- **Jan 2024 - Apr 2024:** Teaching Assistant, Communication Networks I under Prof. S. Valaee, University of Toronto.
-- **Jan 2023 - Apr 2023:** Teaching Assistant in Computer Fundamentals, Fundamentals of Computer Programming, Computer Networks I, and Introduction to Computer Programming, University of Toronto.
-- **Sep 2022 - Dec 2022:** Teaching Assistant in Foundations of Computing and Computer Networks I, University of Toronto.
-- **Jan 2022 - Apr 2022:** Teaching Assistant in Computer Fundamentals and Programming on the Web, University of Toronto.
-- **Sep 2021 - Dec 2021:** Teaching Assistant in Computer Networks, Operating Systems, and Computer Networks I, University of Toronto.
-- **Jan 2021 - Apr 2021:** Teaching Assistant in Programming on the Web and Computer Fundamentals in the CS department, University of Toronto.
-- **Jan 2020 - Apr 2020:** Teaching Assistant in Introduction to Databases, Programming on the Web, and Introduction to Machine Learning under Prof. Danny Heap, Prof. Mark Kazakevich, Prof. Ashish Khisti, and Prof. Ben Liang, University of Toronto.
-- **Jan 2019 - Apr 2019:** Teaching Assistant in Computer Networks II under Prof. Jorg Liebeherr, University of Toronto.
-- **Sep 2017 - Dec 2019:** Teaching Assistant in Internetworking and Communication Networks I under Prof. Jorg Liebeherr, University of Toronto.
-- **Apr 2017 - Aug 2017:** Software Development Engineer at Amazon.com, Inc.
+## Employment History
+
+**Jan 2024 - Apr 2024**  
+*Teaching Assistant, University of Toronto*  
+- Communication Networks I under Prof. S. Valaee
+
+**Jan 2023 - Apr 2023**  
+*Teaching Assistant, University of Toronto*  
+- Computer Fundamentals, Fundamentals of Computer Programming, Computer Networks I in the ECE department, and Introduction to Computer Programming in the CS department.
+
+**Sep 2022 - Dec 2022**  
+*Teaching Assistant, University of Toronto*  
+- Foundations of Computing and Computer Networks I.
+
+**Jan 2022 - Apr 2022**  
+*Teaching Assistant, University of Toronto*  
+- Computer Fundamentals and Programming on the Web.
+
+**Sep 2021 - Dec 2021**  
+*Teaching Assistant, University of Toronto*  
+- Computer Networks, Operating Systems, and Computer Networks I.
+
+**Jan 2021 - Apr 2021**  
+*Teaching Assistant, University of Toronto*  
+- Programming on the Web and Computer Fundamentals in CS department.
+
+**Jan 2020 - Apr 2020**  
+*Teaching Assistant, University of Toronto*  
+- Introduction to Databases with Prof. Danny Heap and Prof. Mark Kazakevich, Programming on the Web under Prof. Mark Kazakevich, and Introduction to Machine Learning under Prof. Ashish Khisti and Prof. Ben Liang.
+
+**Jan 2019 - Apr 2019**  
+*Teaching Assistant, University of Toronto*  
+- Computer Networks II under Prof. Jorg Liebeherr.
+
+**Sep 2017 - Dec 2019**  
+*Teaching Assistant, University of Toronto*  
+- Internetworking course under Prof. Jorg Liebeherr, Communication Networks I.
+
+**Apr 2017 - Aug 2017**  
+*Software Development Engineer at Amazon.com, Inc.*
+
+**Jun 2016 - Aug 2016**  
+*Software Development Intern at Amazon.com, Inc.*
+
+**May 2014 – Aug 2015**  
+*Associate Application Developer at ServiceNow Inc.*
+
+**Jun 2012 – Apr 2014**  
+*Software Development Engineer at IVY Comptech Pvt. Ltd.*
+
+**Aug 2011 – Apr 2012**  
+*Teaching Assistant at IIIT-Hyderabad*  
+- Computer Networks and General and Structural Chemistry.
+
