@@ -110,5 +110,5 @@
 
 ## Kids' Playlist
 
-[![Watch Reyansh's playlist](https://img.youtube.com/vi/z50xF2oap4Y/0.jpg)](https://www.youtube.com/playlist?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn "Watch the playlist") <br>
+[![Watch Reyansh's playlist](https://img.youtube.com/vi/z50xF2oap4Y/0.jpg)](https://www.youtube.com/playlist?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn "Watch the playlist")
 [![Watch Ivyaan's playlist](https://img.youtube.com/vi/AT6C2_ufoxc/0.jpg)](https://www.youtube.com/playlist?list=PLsk7K-mS0k0jwZsyAAQ7CaZqQfwjDmu3g "Watch the playlist")
