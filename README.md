@@ -60,6 +60,20 @@
 - **2012:** Dean’s List Award for Academic Excellence, IIIT HYDERABAD
 - **2008:** All India Rank of 1013 in AIEEE (total 860,000 students); 5050 in IITJEE
 
+## Industry Experience
+
+**Apr 2017 - Aug 2017**  
+*Software Development Engineer at Amazon.com, Inc.*
+
+**Jun 2016 - Aug 2016**  
+*Software Development Intern at Amazon.com, Inc.*
+
+**May 2014 – Aug 2015**  
+*Associate Application Developer at ServiceNow Inc.*
+
+**Jun 2012 – Apr 2014**  
+*Software Development Engineer at IVY Comptech Pvt. Ltd.*
+
 ## Teaching Experience
 
 **Jan 2024 - Apr 2024**  Teaching Assistant, University of Toronto*  
@@ -91,20 +105,6 @@
 
 **Aug 2011 – Apr 2012**  Teaching Assistant at IIIT-Hyderabad*  
 - Computer Networks and General and Structural Chemistry.
-
-## Industry Experience
-
-**Apr 2017 - Aug 2017**  
-*Software Development Engineer at Amazon.com, Inc.*
-
-**Jun 2016 - Aug 2016**  
-*Software Development Intern at Amazon.com, Inc.*
-
-**May 2014 – Aug 2015**  
-*Associate Application Developer at ServiceNow Inc.*
-
-**Jun 2012 – Apr 2014**  
-*Software Development Engineer at IVY Comptech Pvt. Ltd.*
 
 
 
