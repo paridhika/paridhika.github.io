@@ -63,16 +63,17 @@
 ## Industry Experience
 
 **Apr 2017 - Aug 2017**  
-*Software Development Engineer at Amazon.com, Inc.*
+*Software Development Engineer at Amazon.com, Inc.* in Seattle, WA, USA.
 
 **Jun 2016 - Aug 2016**  
-*Software Development Intern at Amazon.com, Inc.*
+*Software Development Intern at Amazon.com, Inc.* in Seattle, WA, USA.
 
 **May 2014 – Aug 2015**  
-*Associate Application Developer at ServiceNow Inc.*
+*Associate Application Developer at ServiceNow Inc.* in Hyderabad, TN, India.
 
 **Jun 2012 – Apr 2014**  
-*Software Development Engineer at IVY Comptech Pvt. Ltd.*
+*Software Development Engineer at IVY Comptech Pvt. Ltd.* in Hyderabad, TN, India.
+
 
 ## Teaching Experience
 
