@@ -108,14 +108,15 @@
 - Computer Networks and General and Structural Chemistry.
 
 
-<!-- Kids' YouTube Playlist Section in a Table -->
-    <table border="1" style="width:100%; border-collapse: collapse;">
-        <tr>
-            <th>Kids' Playlist</th>
-        </tr>
-        <tr>
-            <td>
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </td>
-        </tr>
-    </table>
+## Kids' Playlist
+
+<table border="1" style="width:100%; border-collapse: collapse;">
+    <tr>
+        <th>Kids' Playlist</th>
+    </tr>
+    <tr>
+        <td>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </td>
+    </tr>
+</table>
