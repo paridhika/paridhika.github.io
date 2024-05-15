@@ -105,13 +105,17 @@
 - Internetworking course under Prof. Jorg Liebeherr, Communication Networks I.
 
 **Aug 2011 – Apr 2012**  Teaching Assistant at IIIT-Hyderabad*  
-
-<div id="kids-youtube-playlist">
-        <h2>Kids' Educational Playlist</h2>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 - Computer Networks and General and Structural Chemistry.
 
 
-
-
+<!-- Kids' YouTube Playlist Section in a Table -->
+    <table border="1" style="width:100%; border-collapse: collapse;">
+        <tr>
+            <th>Kids' Playlist</th>
+        </tr>
+        <tr>
+            <td>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </td>
+        </tr>
+    </table>
