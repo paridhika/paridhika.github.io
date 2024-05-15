@@ -111,4 +111,6 @@
 ## Kids' Playlist
 
 [![Watch the playlist](https://img.youtube.com/vi/first-video-id/0.jpg)](https://www.youtube.com/playlist?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn "Watch the playlist")
+[![Watch the playlist](https://img.youtube.com/vi/first-video-id/0.jpg)]([https://www.youtube.com/playlist?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn](https://www.youtube.com/playlist?list=PLsk7K-mS0k0jwZsyAAQ7CaZqQfwjDmu3g) "Watch the playlist")
+
 
