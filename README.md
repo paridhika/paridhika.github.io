@@ -110,13 +110,5 @@
 
 ## Kids' Playlist
 
-<table border="1" style="width:100%; border-collapse: collapse;">
-    <tr>
-        <th>Kids' Playlist</th>
-    </tr>
-    <tr>
-        <td>
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </td>
-    </tr>
-</table>
+[![Watch the playlist](https://img.youtube.com/vi/first-video-id/0.jpg)](https://www.youtube.com/playlist?list=PLsk7K-mS0k0jAZGBpmp3gqxeg3LOK8Xhn "Watch the playlist")
+
