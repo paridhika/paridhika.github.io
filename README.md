@@ -39,7 +39,7 @@
 
 ### Research Publications
 - **2024:** QoS-aware, cost-efficient scheduling for data-intensive DAGs in multi-tier computing environment under review at IEEE Transactions on Cloud Computing
-- **2024:** DNNSplit: Latency and Cost-efficient Split Point Identification for Multi-tier DNN Partitioning under review at IEEE ACCESS
+- **2024:** P. Kayal and A. Leon-Garcia, "DNNSplit: Latency and Cost-efficient Split Point Identification for Multi-tier DNN Partitioning," in IEEE Access, doi: 10.1109/ACCESS.2024.3409057
 - **2024:** Kayal, P. "Autonomic IoT Application Placement in Edge/Fog Computing." *Journal of Math Techniques in Comput Math* 3.1 (2024): 01-08.
 - **2020:** Kayal, P. "Kubernetes in Fog Computing: Feasibility Demonstration, Limitations, and Improvement Scope: Invited Paper." IEEE 6th World Forum on Internet of Things (WF-IoT), Oct. 2020, pp. 1-6.
 - **2020:** Kayal, P. "Kubernetes: Towards Deployment of Distributed IoT Applications in Fog Computing." In Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE ’20), April 2020, pp. 32–33.
