@@ -33,7 +33,10 @@
 
 ### Research Interest
 - Distributed Optimizations
-- Communication Networks
+- EdgeAI
+- Prediction Models
+- IoT time series data analytics
+- Autonomic algorithms
 - Internet of Things
 - Resource Management
 
