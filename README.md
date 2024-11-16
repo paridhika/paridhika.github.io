@@ -5,10 +5,10 @@
   </td>
   <td>
     <strong>Paridhika Kayal, Ph.D. Candidate</strong><br>
-    <strong>Email:</strong> <a href="mailto:paridhika.kayal@mail.utoronto.ca">paridhika.kayal@mail.utoronto.ca</a><br>
+    <strong>Email:</strong> <a href="mailto:paridhika.kayal@gmail.com">paridhika.kayal@gmail.com</a><br>
     <strong>Google Scholar:</strong> <a href="https://scholar.google.ca/citations?user=rZwsV7AAAAAJ&hl=en">View Publications</a><br>
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/paridhikakayal/">Profile</a><br>
-   <strong>View My CV:</strong> <a href="https://github.com/paridhika/paridhika.github.io/blob/main/Paridhika_CV.pdf" target="_blank">View CV</a>
+   <strong>View My CV:</strong> <a href="https://github.com/paridhika/paridhika.github.io/blob/main/Paridhika_CV1.pdf" target="_blank">View CV</a>
   </td>
 </tr>
 </table>
